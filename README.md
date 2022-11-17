@@ -10,6 +10,7 @@
 
 
 
+sdfsd
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=seolhwa-y
@@ -19,64 +20,6 @@
   <img src="https://raw.githubusercontent.com/seolhwa-y
 /github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
--->
-
-<br />
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seolhwa-y
-&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<br />
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
--->
-
-<br />
-<br />
-
-<div align="left">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=seolhwa-y
-&theme=flat&column=7)](https://github.com/seolhwa-y
-/)
-
----
-
-<br />
-<br />
-
-
-
-**I'm a night 🦉**
-
-```markdown
-
-🌞 Morning     7 commits  ▌░░░░░░░░░░░░░░░░░░░░░   2.5%
-🌆 Daytime    99 commits  ███████▎░░░░░░░░░░░░░  35.1%
-🌃 Evening    92 commits  ██████▊░░░░░░░░░░░░░░  32.6%
-🌙 Night      84 commits  ██████▎░░░░░░░░░░░░░░  29.8%
-
-```
-
-<br />
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seolhwa-y
-&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-<!-- 
-```markdown
-
-Python      26 hrs 15 mins  ██████████████████▒░  77.1%
-HTML         3 hrs 48 mins  █████░░░░░░░░░░░░░░░  11.2%
-Markdown     3 hrs 15 mins  ████▓░░░░░░░░░░░░░░░   9.6%
-Bash               37 mins  ███▒░░░░░░░░░░░░░░░░   1.9%
-
-``` -->
-
 
 
 
