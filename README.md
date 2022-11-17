@@ -6,10 +6,10 @@
 
 
 <a href="s">
-  <img src="https://github.com/anuraghazra/github-readme-stats" width="49.2%" />
+  <img src="https://github.com/seolhwa-y/github-readme-stats" width="49.2%" />
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seolhwa-y&show_icons=true&theme=radical" width="49.2%" />
 </a>
 
 
