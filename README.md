@@ -10,13 +10,13 @@
 💻 Most Used Languages & Git Stats
 -------------------
   
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=seolhwa-y" width="600" /></a>
+<a href="#"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=seolhwa-y" width="600" /></a>
  
   
 💻 Algorithm
 -------------------
  
-<a href="http://mazassumnida.wtf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=77seol" width="300" /></a>
+<a href="#"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=77seol" width="300" /></a>
    
  
 [![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)](https://github.com/seolhwa-y)
